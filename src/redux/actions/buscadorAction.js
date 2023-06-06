@@ -1,4 +1,4 @@
-import { Axios } from "axios";
+import Axios from "axios";
 
 export const FETCH_POKEMON_REQUEST = "FETCH_POKEMON_REQUEST";
 export const FETCH_POKEMON_SUCCESS = "FETCH_POKEMON_SUCCESS";
